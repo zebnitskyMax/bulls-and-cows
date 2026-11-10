@@ -1,0 +1,25 @@
+{
+  "name": "bulls-and-cows",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint . --ext .ts",
+    "format": "prettier --write .",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zebnitskyMax/bulls-and-cows.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zebnitskyMax/bulls-and-cows/issues"
+  },
+  "homepage": "https://github.com/zebnitskyMax/bulls-and-cows#readme"
+}
